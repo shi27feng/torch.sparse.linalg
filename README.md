@@ -10,5 +10,5 @@
 
 
 External resources:
-* [PyTorch](www.pytorch.org)
+* [PyTorch](https://pytorch.org)
 * [PyTorch Sparse](https://github.com/rusty1s/pytorch_sparse)
